@@ -101,6 +101,8 @@ Bank 주소 : 0x358AA13c52544ECCEF6B0ADD0f801012ADAD5eE3
 You 주소 : 0x9D7f74d0C41E726EC95884E0e97Fa6129e3b5E99
 보낸 계정 : 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
 보낸 이더 : 2 Ether
+Bank의 msg.sender는 You이고
+You의 msg.sender는 Acount이다.
 [
 	{
 		"from": "0x358AA13c52544ECCEF6B0ADD0f801012ADAD5eE3",       
